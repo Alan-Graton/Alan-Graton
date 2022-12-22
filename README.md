@@ -1,16 +1,21 @@
-### Hi there 👋
+### READABOUTME
 
-<!--
-**Alan-Graton/Alan-Graton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Halloooo, greetings everyone!
+my name is Alan Graton, I'm 20 years old, and live in São Paulo/Brazil.
 
-Here are some ideas to get you started:
+I'm currently working at Valiant Group(Tech company) and 2BContab(Contability company) as a Dev using(and learning) `React` and `React.Native`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- Portuguese
+- English
+- Spanish 
+- German
+
+
+<style fontSize="10">
+  <strong>
+    Looking foward to learn Russian
+  </strong>
+</style>
+
+If you want to get in touch, bitte bitte, send me an E-mail: graton.alan@gmail.com
