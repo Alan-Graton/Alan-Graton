@@ -10,12 +10,8 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - English
 - Spanish 
 - German
+Looking foward to learn Russian
 
-
-<style fontSize="10">
-  <strong>
-    Looking foward to learn Russian
-  </strong>
-</style>
-
-If you want to get in touch, bitte bitte, send me an E-mail: graton.alan@gmail.com
+## Contacts
+E-mail: graton.alan@gmail.com
+Instagram: dev.alangraton
