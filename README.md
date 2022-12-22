@@ -1,7 +1,7 @@
 ### READABOUTME
 
 ## Halloooo, greetings everyone!
-my name is Alan Graton, I'm 20 years old, and live in São Paulo/Brazil.
+My name is Alan Graton, I'm 20 years old, and live in São Paulo/Brazil.
 
 I'm currently working at Valiant Group(Tech company) and 2BContab(Contability company) as a Dev using(and learning) `React` and `React.Native`
 
@@ -10,8 +10,10 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - English
 - Spanish 
 - German
+
 Looking foward to learn Russian
 
 ## Contacts
 E-mail: graton.alan@gmail.com
+
 Instagram: dev.alangraton
