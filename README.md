@@ -8,17 +8,20 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 ## Techs
 - React
 - React.Native
+- CSS
+- SCSS
 - AWS Lambdas
+- mySQL
 
 ## Languages
 - Portuguese
-- English
-- Spanish 
-- German
+- English(fluent)
+- Spanish(advanced) 
+- German(basic)
 
 Looking foward to learn Russian
 
 ## Contacts
 E-mail: graton.alan@gmail.com
 
-Instagram: dev.alangraton
+Instagram: @dev.alangraton
