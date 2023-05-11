@@ -8,6 +8,8 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 ## Techs
 - React
 - React.Native
+- JS
+- TS
 - CSS
 - SCSS
 - AWS Lambdas
