@@ -24,6 +24,9 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 
 Looking foward to learn Russian
 
+## Portifolio V2 (`WIP`)
+Link: https://alan-graton.github.io/Portifolio-V2/
+
 ## Contacts
 E-mail: graton.alan@gmail.com
 
