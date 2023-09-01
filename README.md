@@ -8,6 +8,7 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 ## Techs
 - React
 - React.Native
+- Fiori UI5(learning)
 - JS
 - TS
 - CSS
