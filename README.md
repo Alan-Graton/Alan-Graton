@@ -13,7 +13,7 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - TS
 - CSS
 - SCSS
-- AWS Lambdas
+- AWS
 - Serverless
 - mySQL
 
