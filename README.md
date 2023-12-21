@@ -1,9 +1,9 @@
 ### READABOUTME
 
 ## Halloooo, greetings everyone!
-My name is Alan Graton, I'm 21 years old, and live in São Paulo/Brazil.
+My name is Alan Graton, I'm 21 years old, and living in São Paulo/Brazil.
 
-I'm currently working at Valiant Group(Tech company) and 2BContab(Contability company) as a Dev using(and learning) `React` and `React.Native`
+I'm currently working at Valiant Group(Tech company) as a Fullstack Developer.
 
 ## Techs
 - React
@@ -14,8 +14,9 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - CSS
 - SCSS
 - AWS
+- GCP
 - Serverless
-- mySQL
+- MySQL
 
 ## Languages
 - Portuguese
@@ -23,12 +24,14 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - Spanish(advanced) 
 - German(intermediate)
 
-Looking foward to learn Russian
+Looking forward to learn Russian
 
 ## Portifolio V2 (`WIP`)
 Link: https://alan-graton.github.io/Portifolio-V2/
 
 ## Contacts
-E-mail: graton.alan@gmail.com
+**E-mail**: graton.alan@gmail.com
 
-Instagram: @dev.alangraton
+**Instagram**: @dev.alangraton
+
+**LinkedIn**: https://www.linkedin.com/in/alan-graton-louren%C3%A7o-de-brito-2695571b5/
