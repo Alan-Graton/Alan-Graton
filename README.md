@@ -21,7 +21,7 @@ I'm currently working at Valiant Group(Tech company) and 2BContab(Contability co
 - Portuguese
 - English(fluent)
 - Spanish(advanced) 
-- German(basic)
+- German(intermediate)
 
 Looking foward to learn Russian
 
