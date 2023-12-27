@@ -90,6 +90,6 @@ Link: https://alan-graton.github.io/Portifolio-V2/
 
 <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/304f1d19-691b-4839-ac85-770efa6b1a54" width="20" /> graton.alan@gmail.com
 
-<img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/2302bb9a-7478-4f24-9fbc-e4f8bbb6ef2d" width="20" /> @dev.alangraton
+<img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/2302bb9a-7478-4f24-9fbc-e4f8bbb6ef2d" width="20" /> [@dev.alangraton](https://www.instagram.com/dev.alangraton/)
 
-<img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/0387ce27-373c-454e-94c4-367071dfc619" width="20" /> https://www.linkedin.com/in/alan-graton-louren%C3%A7o-de-brito-2695571b5/
+<img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/0387ce27-373c-454e-94c4-367071dfc619" width="20" /> [Alan Graton Lourenço de Brito](https://www.linkedin.com/in/alan-graton-louren%C3%A7o-de-brito-2695571b5/)
