@@ -88,5 +88,7 @@ I'm currently working at [Valiant Group](https://valiantgroup.com.br/) as a Full
 ## Contacts
 
 [<img src="https://img.shields.io/badge/@dev.alangraton%20-pink?style=for-the-badge&logo=instagram" />](https://www.instagram.com/dev.alangraton/)
+
 [<img src="https://img.shields.io/badge/Alan Graton Lourenço de Brito%20-blue?style=for-the-badge&logo=linkedin" />](https://www.linkedin.com/in/alan-graton-louren%C3%A7o-de-brito-2695571b5/)
+
 [<img src="https://img.shields.io/badge/graton.alan@gmail%20-orange?style=for-the-badge&logo=gmail" />](graton.alan@gmail.com)
