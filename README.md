@@ -83,8 +83,7 @@ I'm currently working at [Valiant Group](https://valiantgroup.com.br/) as a Full
 
 **Looking forward to learning Russian...**
 
-## Portifolio V2 🚧
-Link: https://alan-graton.github.io/Portifolio-V2/
+## [Portifolio V2](https://alan-graton.github.io/Portifolio-V2/) 🚧
 
 ## Contacts
 
