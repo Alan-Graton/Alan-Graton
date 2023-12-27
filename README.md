@@ -66,19 +66,19 @@ I'm currently working at [Valiant Group](https://valiantgroup.com.br/) as a Full
 
 ## Languages
 <div>
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/24b34538-cd75-47b5-a9b5-13bc59b10ac2" width="65" /> 
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/712b8e1c-27df-4dab-9cc2-af1da5574b72" width="35" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/24b34538-cd75-47b5-a9b5-13bc59b10ac2" width="55" /> 
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/712b8e1c-27df-4dab-9cc2-af1da5574b72" width="25" />
 
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/f0c95a73-7059-486f-83a1-585675bbc07f" width="65" /> 
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/712b8e1c-27df-4dab-9cc2-af1da5574b72" width="35" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/f0c95a73-7059-486f-83a1-585675bbc07f" width="55" /> 
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/712b8e1c-27df-4dab-9cc2-af1da5574b72" width="25" />
 </div>
 
 <div>
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/bdcc7014-714c-4c62-b89e-80119a36de04" width="65" />
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/14d7c61d-0aa6-4cf4-95e3-bc26467996ee" width="35" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/bdcc7014-714c-4c62-b89e-80119a36de04" width="55" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/14d7c61d-0aa6-4cf4-95e3-bc26467996ee" width="25" />
 
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/48fb7774-7b94-45e2-ab13-bc6fd7f178f7" width="65" />
-  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/14d7c61d-0aa6-4cf4-95e3-bc26467996ee" width="35" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/48fb7774-7b94-45e2-ab13-bc6fd7f178f7" width="55" />
+  <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/14d7c61d-0aa6-4cf4-95e3-bc26467996ee" width="25" />
 </div>
 
 **Looking forward to learning Russian...**
