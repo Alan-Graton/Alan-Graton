@@ -3,7 +3,7 @@
 ## Halloooo, greetings everyone!
 My name is Alan Graton, I'm 21 years old, and living in São Paulo/Brazil.
 
-I'm currently working at Valiant Group(Tech company) as a Fullstack Developer.
+I'm currently working at [Valiant Group](https://valiantgroup.com.br/) as a Fullstack Web/Mobile Developer.
 
 ## Techs
 
