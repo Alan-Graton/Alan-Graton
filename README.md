@@ -1,11 +1,11 @@
 # READABOUTME
 
 ## Halloooo, greetings everyone!
-My name is Alan Graton, I'm 21 years old, and living in São Paulo/Brazil.
+#### My name is Alan Graton, I'm 21 years old, and living in São Paulo/Brazil.
 
-I'm currently working at [**Valiant Group**](https://valiantgroup.com.br/) as a Fullstack Web/Mobile Developer.
+#### I'm currently working at [**Valiant Group**](https://valiantgroup.com.br/) as a Fullstack Web/Mobile Developer.
 
-## Techs
+## Techs that I've been working with a good time
 
 ### Frontend
 
@@ -64,6 +64,10 @@ I'm currently working at [**Valiant Group**](https://valiantgroup.com.br/) as a 
   <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/a052d18a-c0b6-4923-b126-c09baeb98d17" width="40" />
 </div>
 
+## Extras
+
+#### Recently I started working with Fiori UI5 on a project for Vale with Grupo Intelsis. Still learning and receiving lots of support from experienced developers 😅.
+
 ## Languages
 <div>
   <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/24b34538-cd75-47b5-a9b5-13bc59b10ac2" width="55" /> 
@@ -81,11 +85,11 @@ I'm currently working at [**Valiant Group**](https://valiantgroup.com.br/) as a 
   <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/14d7c61d-0aa6-4cf4-95e3-bc26467996ee" width="25" />
 </div>
 
-**Looking forward to learning Russian...**
+#### Looking forward to learning Russian... 👀
 
 ## [Portifolio V2](https://alan-graton.github.io/Portifolio-V2/) 🚧
 
-## Contacts
+## "Just call me maybe"
 
 [<img src="https://img.shields.io/badge/@dev.alangraton%20-pink?style=for-the-badge&logo=instagram" />](https://www.instagram.com/dev.alangraton/)
 
