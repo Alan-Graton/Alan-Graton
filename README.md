@@ -87,7 +87,7 @@
 
 #### Looking forward to learning Russian... 👀
 
-## [New portifolio on the way...](alan-graton.github.io/portifolio-v3/) 🚧
+## [New portifolio on the way...](https://alan-graton.github.io/portifolio-v3/) 🚧
 
 ## "Just call me maybe"
 
