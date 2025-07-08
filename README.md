@@ -26,6 +26,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/nestjs.png" alt="nestjs"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/express-js.png" alt="express-js"/>
+  <img width="48" height="48" src="https://icon.icepanel.io/Technology/png-shadow-512/Fastify.png" />
 </div>
 
 ### Packages Management, Terminals
