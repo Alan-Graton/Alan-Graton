@@ -25,6 +25,7 @@
   <img src="https://github.com/Alan-Graton/Alan-Graton/assets/71227163/8fc4df6a-b920-4db0-99c5-e2c0b7f1a8b4" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img width="48" height="48" src="https://img.icons8.com/color/48/golang.png" alt="golang"/>
 </div>
 
 ### Packages Management, Terminals
